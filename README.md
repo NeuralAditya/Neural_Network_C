@@ -128,5 +128,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Aditya Arora - adityaarora15898@gmail.com
 
-Project Link: [https://github.com/NeuralAditya/Linear_Regression_C](https://github.com/NeuralAditya/Linear_Regression_C)
+Project Link: [https://github.com/NeuralAditya/Neural_Network_C](https://github.com/NeuralAditya/Neural_Network_C)
 
